@@ -8,7 +8,7 @@ auth_token  = "0be420042da05354dcea7fe0ba8475a2"
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
-    to="+573507554491", 
+    to="+573004557509", 
     from_="+12077076834",
     body="Hello Cralie Feliz NAvidad!")
 
